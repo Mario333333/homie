@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`KnowledgeAndSkills knowledgeAndSkills snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="knowledge-skills-container"
+  >
+    <div
+      class="section"
+    >
+      <h2
+        class="title-section"
+      />
+    </div>
+    <div
+      class="section"
+    >
+      <h2
+        class="title-section"
+      />
+    </div>
+    <div
+      class="section interests"
+    >
+      <h2
+        class="title-section"
+      />
+      <div>
+        <img
+          alt="paint"
+          data-testid="paint"
+          src="paint.svg"
+        />
+        <img
+          alt="game"
+          data-testid="game"
+          src="game.svg"
+        />
+        <img
+          alt="music"
+          data-testid="music"
+          src="music.svg"
+        />
+        <img
+          alt="ball"
+          data-testid="ball"
+          src="ball.svg"
+        />
+        <img
+          alt="movies"
+          data-testid="movies"
+          src="movies.svg"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

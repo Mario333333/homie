@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Education education snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="education-container"
+  >
+    <h2
+      class="title"
+    />
+  </div>
+</DocumentFragment>
+`;

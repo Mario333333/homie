@@ -1,0 +1,30 @@
+.knowledge-skills-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+
+  .section {
+    flex-basis: 33%;
+    padding: 25px;
+  }
+  .interests {
+    background-color: rgba(255, 0, 86, 0.1);
+    h2 {
+      text-align: center;
+    }
+    div {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  .title-section {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.0015em;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+}
